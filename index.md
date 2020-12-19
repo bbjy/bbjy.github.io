@@ -1,6 +1,6 @@
 ## 个人简历
 ### 联系方式
--手机：XXXXXXXXXXX
+- 手机：XXXXXXXXXXX
 -Email:wb0125@outlook.com
 ### 个人信息
 -姓名/性别/出生年月
