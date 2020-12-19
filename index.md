@@ -1,13 +1,12 @@
 ## 个人简历
 ### 个人信息
 - 姓名：王蓓
-- 手机：XXXXXXXXXXX
 - Email：wb0125@outlook.com
 - 个人主页：http://bbjy.github.io
 - Github：http://github.com/bbjy
 
 ### 教育经历
-- **北京大学**       计算机应用技术   硕士    信息科学技术学院     2018.09 - 2021.07
+- **北京大学**       &#160;&#160;&#160;&#160;计算机应用技术   硕士    信息科学技术学院     2018.09 - 2021.07
 - **北京邮电大学**   通信工程         本科    信息与通信工程学院   2014.09 - 2018.07
 
 ### 专业技能
@@ -20,19 +19,19 @@
 **创新业务事业群-UC事业部-国内业务部 推荐算法实习生**  
 **工作描述:** 负责优化推荐算法模型，提出优化方案，开发Python，C++和Hadoop代码，完成数据处理，算法实现，实验
 验证，结果分析整个流程，推进算法上线，以及完成行业相关方法调研报告并进行分享汇报等工作。
-#### 北京市商汤科技开发有限公司 (2018.5-2018.08)
+#### 北京市商汤科技开发有限公司 (2018.05-2018.08)
 **工程院 见习研究员**  
 **工作描述：** 参与研究一种基于聚类的深度神经网络通道剪枝技术， 开发Python代码实现算法模型，并复现已有相关工作模
 型，所做研究被用于申请专利，离职时完成专利申请的初稿。
 
 ### 学生工作经历
-##### 北京大学计算机应用硕士生党支部 党支书 2018.09 - 至今
+##### 北京大学计算机应用硕士生党支部   党支书   2018.09 - 至今
 **岗位职责：**负责完成党支部的组织建设，思想建设，党日活动等工作，传达和践行上级党组织的要求。多次组织党支部成员开展参观实
 践，理论学习等活动，带领党支部获优秀党支部称号。
-##### 北京大学信息科学技术学院研究生会学术部 副部长 2018.09 - 2019.09
+##### 北京大学信息科学技术学院研究生会学术部   副部长  2018.09 - 2019.09
 **岗位职责：**负责组织协调开展各项部门活动，如组织全国微电子研究生论坛。全面负责本部门的所有活动的微信公众号宣传文案，及活
 动后的总结汇报。
-##### 北京邮电大学2014211122团支部 团支书 2016.03 - 2018.06
+##### 北京邮电大学2014211122团支部   团支书   2016.03 - 2018.06
 **岗位职责：**负责管理团支部日常事务，组织团日活动，负责传达并践行上级团组织的要求，协助班长管理班级事务。带领团支部获得首
 都大学、中职院校“先锋杯”优秀团支部，两次获校“十佳团支部”称号。
 ### 荣誉奖项
@@ -48,6 +47,6 @@
 [1] Bei Wang, et al., Dual Autoencoder Network with Swap Reconstruction for Cold-Start Recommendation,
 Conference on Information and Knowledge Management , CIKM 2020. (CCF-B)  
 [2] Bei Wang, et al., GNDD: A Graph Neural Network-Based Method for Drug-Disease Association Prediction,
-IEEE International Conference on Bioinformatics and Biomedicine, BIBM 2019. (CCF-B)
+IEEE International Conference on Bioinformatics and Biomedicine, BIBM 2019. (CCF-B)  
 [3] Bei Wang, et al., Comparison of Molecule Graph Representation with Similarity Consistency, IEEE
 International Conference on Bioinformatics and Biomedicine, BIBM 2019. (CCF-B)
