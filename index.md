@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## 个人简历
+### 联系方式
+-手机：XXXXXXXXXXX
+-Email:wb0125@outlook.com
+### 个人信息
+-姓名/性别/出生年月
+-本科/北京邮电大学/通信工程 2014-2018
+-硕士/北京大学/计算机应用技术 2018-至今
+-个人主页：http://bbjy.github.io
+-Github:http://github.com/bbjy
 
-You can use the [editor on GitHub](https://github.com/bbjy/bbjy.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bbjy/bbjy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 实习经历
+#### 阿里巴巴集团（北京）（2020.05-2020.08）
+**创新业务事业群-UC事业部-国内业务部 推荐算法实习生**
+**工作描述:** 负责优化推荐算法模型，提出优化方案，开发Python，C++和Hadoop代码，完成数据处理，算法实现，实验
+验证，结果分析整个流程，推进算法上线，以及完成行业相关方法调研报告并进行分享汇报等工作。
+##### 北京市商汤科技开发有限公司 (2018.5-2018.08)
+**工程院 见习研究员**
+**工作描述：** 参与研究一种基于聚类的深度神经网络通道剪枝技术， 开发Python代码实现算法模型，并复现已有相关工作模
+型，所做研究被用于申请专利，离职时完成专利申请的初稿。
