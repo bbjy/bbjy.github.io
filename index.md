@@ -1,13 +1,13 @@
 ## 个人简历
 ### 联系方式
 - 手机：XXXXXXXXXXX
--Email:wb0125@outlook.com
+- Email:wb0125@outlook.com
 ### 个人信息
--姓名/性别/出生年月
--本科/北京邮电大学/通信工程 2014-2018
--硕士/北京大学/计算机应用技术 2018-至今
--个人主页：http://bbjy.github.io
--Github:http://github.com/bbjy
+- 姓名/性别/出生年月
+- 本科/北京邮电大学/通信工程 2014-2018
+- 硕士/北京大学/计算机应用技术 2018-至今
+- 个人主页：http://bbjy.github.io
+- Github:http://github.com/bbjy
 
 ### 实习经历
 #### 阿里巴巴集团（北京）（2020.05-2020.08）
