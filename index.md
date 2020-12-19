@@ -17,13 +17,11 @@
 
 ### 实习经历
 #### 阿里巴巴集团（北京）（2020.05-2020.08）
-**创新业务事业群-UC事业部-国内业务部 推荐算法实习生**
-
+**创新业务事业群-UC事业部-国内业务部 推荐算法实习生**  
 **工作描述:** 负责优化推荐算法模型，提出优化方案，开发Python，C++和Hadoop代码，完成数据处理，算法实现，实验
 验证，结果分析整个流程，推进算法上线，以及完成行业相关方法调研报告并进行分享汇报等工作。
 #### 北京市商汤科技开发有限公司 (2018.5-2018.08)
-**工程院 见习研究员**
-
+**工程院 见习研究员**  
 **工作描述：** 参与研究一种基于聚类的深度神经网络通道剪枝技术， 开发Python代码实现算法模型，并复现已有相关工作模
 型，所做研究被用于申请专利，离职时完成专利申请的初稿。
 
@@ -37,7 +35,7 @@
 ##### 北京邮电大学2014211122团支部 团支书 2016.03 - 2018.06
 **岗位职责：**负责管理团支部日常事务，组织团日活动，负责传达并践行上级团组织的要求，协助班长管理班级事务。带领团支部获得首
 都大学、中职院校“先锋杯”优秀团支部，两次获校“十佳团支部”称号。
-#### 荣誉奖项
+### 荣誉奖项
 北京大学优秀科研奖（校级） 2020.12  
 北京大学学习优秀奖（校级） 2019.12  
 北京大学专项奖学金（校级） 2019.12  
@@ -46,12 +44,10 @@
 北京邮电大学“三好学生”（校级） 2016.11  
 北京邮电大学优秀团支书（校级） 2016.11  
 美国大学生数学建模竞赛二等奖（H奖）（国际级） 2017.01  
-#### 发表论文
+### 发表论文
 [1] Bei Wang, et al., Dual Autoencoder Network with Swap Reconstruction for Cold-Start Recommendation,
 Conference on Information and Knowledge Management , CIKM 2020. (CCF-B)  
-
 [2] Bei Wang, et al., GNDD: A Graph Neural Network-Based Method for Drug-Disease Association Prediction,
 IEEE International Conference on Bioinformatics and Biomedicine, BIBM 2019. (CCF-B)
-
 [3] Bei Wang, et al., Comparison of Molecule Graph Representation with Similarity Consistency, IEEE
 International Conference on Bioinformatics and Biomedicine, BIBM 2019. (CCF-B)
